@@ -1,5 +1,5 @@
 #include <iostream>
 int main(){
-std::cout<<"123"<<std::cout<<"endl";
+std::cout<<"shapar.arseniy\n";
 }
 
